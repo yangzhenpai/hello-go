@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// 全局变量：只能用 var 声明(用法1：var 变量名 类型 = 值)
+// 全局变量：只能用 var 声明(用法1：var 变量名 类型 = 值).
 var name string = "小明"
 
 func main() {
